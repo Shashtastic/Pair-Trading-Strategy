@@ -16,3 +16,6 @@ The Cointegration Checker generates a list of cointegrated pairs and their sprea
 Those spread ratios are manually fed into the Threshold Checker, which evaluates trading signals against predefined thresholds and formats its output into an Excel file.
 
 The Final Portfolio Builder reads the Excel output to construct and backtest the final portfolio.
+
+
+This is to verIfy that Shashwat Gupta, B.A. (H) Economics student from Hindu College has made this.
